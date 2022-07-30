@@ -1,3 +1,5 @@
+"couldnt get the main header image to load for some reason"  "the other images loaded perferctly"
+
 Structure and descriptive comments were added
 
 <!-- Header -->
