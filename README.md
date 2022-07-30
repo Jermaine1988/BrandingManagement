@@ -27,3 +27,6 @@ Added <footer> tag at the bottom of the page
 Changed content class name for mainContent both in the HTML and CSS files
 
 The benefits <div> tag was changed to <aside> tag
+  
+  ![Screenshot 2022-07-29 205500](https://user-images.githubusercontent.com/105750913/181864037-44072780-7907-41c6-97bf-6457aa892b53.png)
+
